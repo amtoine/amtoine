@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- from https://pufler.dev/git-badges/ -->
+[![Visits Badge](https://badges.pufler.dev/visits/a2n-s/a2n-s)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/a2n-s)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/a2n-s)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/a2n-s/a2n-s)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/a2n-s/a2n-s)](https://badges.pufler.dev)
