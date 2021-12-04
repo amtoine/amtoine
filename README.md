@@ -18,7 +18,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=WORK%20IN%20PROGRESS;Full%20readme%20available%20soon&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=WORK%20IN%20PROGRESS;Full%20readme%20available%20soon . . .&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social icons section -->
@@ -37,11 +37,11 @@
 <!-- some badges. -->
 <!-- from https://pufler.dev/git-badges/ -->
 <p align="center">
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/visits/a2n-s/a2n-s?style=for-the-badge&color=red"     src="https://badges.pufler.dev/visits/a2n-s/a2n-s?style=for-the-badge&color=red">
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/years/a2n-s?style=for-the-badge&color=yellow"         src="https://badges.pufler.dev/years/a2n-s?style=for-the-badge&color=yellow">
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/repos/a2n-s?style=for-the-badge&color=green"          src="https://badges.pufler.dev/repos/a2n-s?style=for-the-badge&color=green">
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/updated/a2n-s/a2n-s?style=for-the-badge&color=blue"   src="https://badges.pufler.dev/updated/a2n-s/a2n-s?style=for-the-badge&color=blue">
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/created/a2n-s/a2n-s?style=for-the-badge&color=violet" src="https://badges.pufler.dev/created/a2n-s/a2n-s?style=for-the-badge&color=violet">
+  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/visits/a2n-s/a2n-s?style=for-the-badge&color=violet"  src="https://badges.pufler.dev/visits/a2n-s/a2n-s?style=for-the-badge&color=violet">
+</p>
+<p align="center">
+  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/updated/a2n-s/a2n-s?style=for-the-badge&color=red"    src="https://badges.pufler.dev/updated/a2n-s/a2n-s?style=for-the-badge&color=red">
+  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/created/a2n-s/a2n-s?style=for-the-badge&color=orange" src="https://badges.pufler.dev/created/a2n-s/a2n-s?style=for-the-badge&color=orange">
 </p>
 
 <!-- Social badges section -->
@@ -49,9 +49,11 @@
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/years/a2n-s?style=for-the-badge&color=yellow"         src="https://badges.pufler.dev/years/a2n-s?style=for-the-badge&color=yellow">
+  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/repos/a2n-s?style=for-the-badge&color=green"          src="https://badges.pufler.dev/repos/a2n-s?style=for-the-badge&color=green">
+  <a href="https://github.com/a2n-s?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/a2n-s"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
+  <a href="https://github.com/a2n-s?tab=followers">
     <img alt="followers"   title="Follow me on Github"   src="https://custom-icon-badges.herokuapp.com/github/followers/a2n-s?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
@@ -61,8 +63,8 @@ My resume [here](resume.pdf).
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/a2n-s/dotfiles">       <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dotfiles&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"        alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/a2n-s/a2n-s.github.io"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=a2n-s.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/a2n-s/dotfiles">       <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dotfiles&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"        alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/a2n-s/a2n-s.github.io"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=a2n-s.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 <p align="left">
@@ -73,8 +75,8 @@ My resume [here](resume.pdf).
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/a2n-s/dmscripts"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmscripts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/a2n-s/dmenu">    <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmenu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                  alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/dmscripts"><img height="120" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmscripts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/dmenu">    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmenu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                  alt="github-readme-stats"></a>
 </p>
 
 <p align="left">
@@ -111,15 +113,24 @@ My resume [here](resume.pdf).
   <a href="https://github.com/search?q=user%3Aa2n-s+language%3Apython">    <img alt="Python"        src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aa2n-s+language%3Ar">         <img alt="R"             src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aa2n-s+language%3Asql">       <img alt="SQL"           src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+
+  <!-- <a href="https://github.com/search?q=user%3Aa2n-s+language%3Aprocessing"><img alt="Processing"    src="https://custom-icon-badges.herokuapp.com/badge/Processing-025E8C.svg?logo=database&logoColor=white"></a> -->
+  <!-- <a href="https://github.com/search?q=user%3Aa2n-s+language%3Acaml">      <img alt="CamL"          src="https://custom-icon-badges.herokuapp.com/badge/CamL-025E8C.svg?logo=database&logoColor=white"></a> -->
+  <!-- <a href="https://github.com/search?q=user%3Aa2n-s+language%3Aracket">    <img alt="Racket"        src="https://custom-icon-badges.herokuapp.com/badge/Racket-025E8C.svg?logo=database&logoColor=white"></a> -->
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
-  <a href="#"><img alt="Arduino"    src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-  <a href="#"><img alt="NumPy"      src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-  <a href="#"><img alt="Pandas"     src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+  <a href="#"><img alt="Arduino"      src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+  <a href="#"><img alt="NumPy"        src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Pandas"       src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="TensorFlow"   src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+
+  <!-- <a href="#"><img alt="PyTorch"      src="https://img.shields.io/badge/PyTorch-FF6F00.svg?logo=TensorFlow&logoColor=white"></a> -->
+  <!-- <a href="#"><img alt="SciPy"        src="https://img.shields.io/badge/SciPy-FF6F00.svg?logo=TensorFlow&logoColor=white"></a> -->
+  <!-- <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20learn-FF6F00.svg?logo=TensorFlow&logoColor=white"></a> -->
+  <!-- <a href="#"><img alt="Unix shell"   src="https://img.shields.io/badge/Unix%20Shell-FF6F00.svg?logo=TensorFlow&logoColor=white"></a> -->
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -129,20 +140,32 @@ My resume [here](resume.pdf).
   <a href="#"><img alt="MySQL"        src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="PostgreSQL"   src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
   <a href="#"><img alt="SQLite"       src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+
+  <!-- <a href="#"><img alt="Redis"        src="https://custom-icon-badges.herokuapp.com/badge/Redis-025E8C.svg?logo=database&logoColor=white"></a> -->
 </p>
 
 ### 💻 Software and tools
 
 <p>
-  <a href="#"><img alt="Adobe"          src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-  <a href="#"><img alt="Android"        src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-  <a href="#"><img alt="Arch Linux"     src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-  <a href="#"><img alt="Bitwarden"      src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
-  <a href="#"><img alt="Dark Reader"    src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
-  <a href="#"><img alt="Git"            src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Google Sheets"  src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-  <a href="#"><img alt="Jupyter"        src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  <a href="#"><img alt="Adobe"             src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+  <a href="#"><img alt="Android"           src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+  <a href="#"><img alt="Arch Linux"        src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+  <a href="#"><img alt="Bitwarden"         src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
+  <a href="#"><img alt="Dark Reader"       src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
+  <a href="#"><img alt="Git"               src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Google Sheets"     src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter"           src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+  <a href="#"><img alt="Stack Overflow"    src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+
+  <!-- <a href="#"><img alt="ssh"               src="https://img.shields.io/badge/ssh-F05033.svg?logo=git&logoColor=white"></a> -->
+  <!-- <a href="#"><img alt="Cluster Computing" src="https://img.shields.io/badge/Cluster%20Computing-F05033.svg?logo=git&logoColor=white"></a> -->
+  <!-- <a href="#"><img alt="excel"             src="https://img.shields.io/badge/excel-F05033.svg?logo=git&logoColor=white"></a> -->
+  <!-- <a href="#"><img alt="blender"           src="https://img.shields.io/badge/blender-F05033.svg?logo=git&logoColor=white"></a> -->
+  <!-- <a href="#"><img alt="Gimp"              src="https://img.shields.io/badge/Gimp-F05033.svg?logo=git&logoColor=white"></a> -->
+  <!-- <a href="#"><img alt="RISE"              src="https://img.shields.io/badge/RISE-F05033.svg?logo=git&logoColor=white"></a> -->
+  <!-- <a href="#"><img alt="Jupyter Lab"       src="https://custom-icon-badges.herokuapp.com/badge/Jupyter%20Lab-025E8C.svg?logo=Jupyter%20Lab&logoColor=white"></a> -->
+  <!-- <a href="#"><img alt="Google Colab"      src="https://custom-icon-badges.herokuapp.com/badge/Google%20Colab-025E8C.svg?logo=google&logoColor=white"></a> -->
+  <!-- [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]() -->
 </p>
 
 <!-- ## 📺 Latest YouTube videos-->
