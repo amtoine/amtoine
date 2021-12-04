@@ -38,24 +38,22 @@
 <!-- some badges. -->
 <!-- from https://pufler.dev/git-badges/ -->
 <p align="center">
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/visits/a2n-s/a2n-s" src="https://badges.pufler.dev/visits/a2n-s/a2n-s">
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/years/a2n-s" src="https://badges.pufler.dev/years/a2n-s">
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/repos/a2n-s" src="https://badges.pufler.dev/repos/a2n-s">
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/updated/a2n-s/a2n-s" src="https://badges.pufler.dev/updated/a2n-s/a2n-s">
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/created/a2n-s/a2n-s" src="https://badges.pufler.dev/created/a2n-s/a2n-s">
+  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/visits/a2n-s/a2n-s?style=for-the-badge&color=red" src="https://badges.pufler.dev/visits/a2n-s/a2n-s?style=for-the-badge&color=red">
+  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/years/a2n-s?style=for-the-badge&color=yellow" src="https://badges.pufler.dev/years/a2n-s?style=for-the-badge&color=yellow">
+  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/repos/a2n-s?style=for-the-badge&color=green" src="https://badges.pufler.dev/repos/a2n-s?style=for-the-badge&color=green">
+  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/updated/a2n-s/a2n-s?style=for-the-badge&color=blue" src="https://badges.pufler.dev/updated/a2n-s/a2n-s?style=for-the-badge&color=blue">
+  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/created/a2n-s/a2n-s?style=for-the-badge&color=violet" src="https://badges.pufler.dev/created/a2n-s/a2n-s?style=for-the-badge&color=violet">
 </p>
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/a2n-s"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/a2n-s?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/a2n-s-profile-views"/></a>
 </p>
 
 <!-- ## 📘 My top open source projects-->
