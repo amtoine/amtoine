@@ -30,17 +30,19 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/GMb9ESpa7J" alt="https://discord.gg/GMb9ESpa7J"><img width="32px" alt="https://i.imgur.com/OViZO8J.png" title="SCSC club" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/SuReLI" alt="https://github.com/SuReLI"><img width="32px" alt="https://i.imgur.com/TWTvTOm.png" title="SuReLI lab" src="https://i.imgur.com/TWTvTOm.png"/></a>
+  <a href="https://github.com/SuReLI" alt="https://github.com/SuReLI"><img width="32px" alt="github.png" title="SuReLI lab" src="github.png"/></a>
 </p>
 
 <br/>
 
 <!-- from https://pufler.dev/git-badges/ -->
-[![Visits Badge](https://badges.pufler.dev/visits/a2n-s/a2n-s)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/a2n-s)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/a2n-s)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/a2n-s/a2n-s)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/a2n-s/a2n-s)](https://badges.pufler.dev)
+<p align="center">
+  [![Visits Badge](https://badges.pufler.dev/visits/a2n-s/a2n-s)](https://badges.pufler.dev)
+  [![Years Badge](https://badges.pufler.dev/years/a2n-s)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/a2n-s)](https://badges.pufler.dev)
+  [![Updated Badge](https://badges.pufler.dev/updated/a2n-s/a2n-s)](https://badges.pufler.dev)
+  [![Created Badge](https://badges.pufler.dev/created/a2n-s/a2n-s)](https://badges.pufler.dev)
+</p>
 
 <!--<!-1- Social badges section -1->-->
 <!--<!-1- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -1->-->
