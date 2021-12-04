@@ -59,7 +59,7 @@
 
 ## 📘 My Resume
 <p align="center">
-  <a href="https://github.com/a2n-s/a2n-s/blob/main/resume.pdf" alt="https://github.com/a2n-s/a2n-s/blob/main/resume.pdfhttps://badges.pufler.dev"><img alt="https://img.shields.io/badge/My%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white" src="https://img.shields.io/badge/My%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white">
+  <a href="https://github.com/a2n-s/a2n-s.github.io/blob/main/content/res/resume.pdf" alt="https://github.com/a2n-s/a2n-s/blob/main/resume.pdfhttps://badges.pufler.dev"><img alt="https://img.shields.io/badge/My%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white" src="https://img.shields.io/badge/My%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white">
 </p>
 
 ## 📘 My top open source projects
