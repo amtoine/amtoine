@@ -60,7 +60,7 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/a2n-s/dotfiles"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&dotfiles&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/a2n-s/dotfiles"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dotfiles&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/a2n-s/a2n-s.github.io"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=a2n-s.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
@@ -73,12 +73,12 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/s2n-s/dmscripts"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmscripts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/s2n-s/dmenu"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmenus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/dmscripts"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmscripts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/dmenu"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmenu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/a2n-s?tab=repositories&type=fork&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%21Repos-2962FF?style=for-the-badge&logoColor=white&logo=fork" title="All Forks" src="https://custom-icon-badges.herokuapp.com/badge/-All%21Repos-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="https://github.com/a2n-s?tab=repositories&type=fork&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork" title="All Forks" src="https://custom-icon-badges.herokuapp.com/badge/-All%21Repos-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
 <!-- ## 🔥 Streak stats-->
