@@ -104,37 +104,28 @@ My stats:
 
 ## 📕 Classes I took part in [[toc](#table-of-content)].
 <p align="left">
-  <a href="https://github.com/a2n-s/deep-learning">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=deep-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-react-pages"></a>
-  <a href="https://github.com/a2n-s/stochastic">              <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=stochastic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"               alt="github-react-pages"></a>
-  <a href="https://github.com/a2n-s/machine-learning">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=machine-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-react-pages"></a>
-  <!-- <a href="https://github.com/a2n-s/pyseminar">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=pyseminar&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-react-pages"></a> -->
-  <a href="https://github.com/a2n-s/evolution">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=evolution&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-react-pages"></a>
+  <a href="https://github.com/a2n-s/deep-learning">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=deep-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/stochastic">              <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=stochastic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"               alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/machine-learning">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=machine-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-readme-stats"></a>
+  <!-- <a href="https://github.com/a2n-s/pyseminar">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=pyseminar&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-readme-stats"></a> -->
+  <a href="https://github.com/a2n-s/evolution">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=evolution&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-readme-stats"></a>
 </p>
 
 ## 📕 Machine learning projects [[toc](#table-of-content)].
 <p align="left">
-  <a href="https://github.com/a2n-s/DiCyR">                   <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=DiCyR&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                    alt="github-react-pages"></a>
-  <a href="https://github.com/a2n-s/EA-elective-NEAT">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=EA-elective-NEAT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-react-pages"></a>
+  <a href="https://github.com/a2n-s/DiCyR">                   <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=DiCyR&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                    alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/EA-elective-NEAT">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=EA-elective-NEAT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-readme-stats"></a>
 </p>
 
 ## 📕 Other interesting projects [[toc](#table-of-content)].
 <p align="left">
-  <!-- <a href="https://github.com/a2n-s/tatami">                  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=tatami&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                   alt="github-react-pages"></a> -->
-  <a href="https://github.com/a2n-s/animal-crossing-db-study"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=animal-crossing-db-study&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-react-pages"></a>
-  <!-- <a href="https://github.com/a2n-s/graphs">                  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=graphs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                   alt="github-react-pages"></a> -->
-  <a href="https://github.com/a2n-s/CTF.2021">                <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=CTF.2021&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                 alt="github-react-pages"></a>
-  <!-- <a href="https://github.com/a2n-s/soft-body">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=soft-body&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-react-pages"></a> -->
-  <a href="https://github.com/a2n-s/SSS">                     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=SSS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                      alt="github-react-pages"></a>
-  <a href="https://github.com/a2n-s/project-euler">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=project-euler&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-react-pages"></a>
-</p>
-
-## 🔥 Streak stats [[toc](#table-of-content)].
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="a2n-s' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=a2n-s&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  <!-- <a href="https://github.com/a2n-s/tatami">                  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=tatami&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                   alt="github-readme-stats"></a> -->
+  <a href="https://github.com/a2n-s/animal-crossing-db-study"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=animal-crossing-db-study&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <!-- <a href="https://github.com/a2n-s/graphs">                  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=graphs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                   alt="github-readme-stats"></a> -->
+  <a href="https://github.com/a2n-s/CTF.2021">                <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=CTF.2021&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                 alt="github-readme-stats"></a>
+  <!-- <a href="https://github.com/a2n-s/soft-body">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=soft-body&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-readme-stats"></a> -->
+  <a href="https://github.com/a2n-s/SSS">                     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=SSS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                      alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/project-euler">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=project-euler&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -218,6 +209,15 @@ My stats:
 <!--[![Migrating Discord Bots from Discord.py to Nextcord](https://freshidea.com/jonah/app/youtube-card/?id=lzyd5wHzDmU)](https://www.youtube.com/watch?v=lzyd5wHzDmU "Migrating Discord Bots from Discord.py to Nextcord")-->
 <!--[![Edit and RUN your code from GitHub online in seconds](https://freshidea.com/jonah/app/youtube-card/?id=0YLTILjOxIE)](https://www.youtube.com/watch?v=0YLTILjOxIE "Edit and RUN your code from GitHub online in seconds")-->
 <!--[![Keeping your dependencies updated automatically with Dependabot](https://freshidea.com/jonah/app/youtube-card/?id=22XrqdIe8oQ)](https://www.youtube.com/watch?v=22XrqdIe8oQ "Keeping your dependencies updated automatically with Dependabot")<!-1- YOUTUBE:END -1->-->
+
+## 🔥 Streak stats [[toc](#table-of-content)].
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="a2n-s' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=a2n-s&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
 
 ## 📊 Github stats [[toc](#table-of-content)].
 <!-- https://github.com/anuraghazra/github-readme-stats -->
