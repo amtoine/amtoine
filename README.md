@@ -57,13 +57,23 @@
     <img alt="followers"   title="Follow me on Github"   src="https://custom-icon-badges.herokuapp.com/github/followers/a2n-s?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-## 📘 My Resume
+# Table of Content.
+- [My resume.](#-my-resume-toc)
+- [My top open source projects.](#-my-top-open-source-projects-toc)
+- [Top projects i've contributed to.](#-top-projects-ive-contributed-to-toc)
+- [Classes i took part in.](#-classes-i-took-part-in-toc)
+- [Machine learning projects.](#-machine-learning-projects-toc)
+- [Other interesting projects.](#-other-interesting-projects-toc)
+- [Streak stats.](#-streak-stats-toc)
+- [My favorite tools.](#my-favorite-tools-toc)
+- [Github stats.](#-github-stats-toc)
+
+## 📘 My Resume [[toc.](#table-of-content)].
 <p align="center">
   <a href="https://github.com/a2n-s/a2n-s.github.io/blob/main/content/res/resume.pdf" alt="https://github.com/a2n-s/a2n-s/blob/main/resume.pdfhttps://badges.pufler.dev"><img alt="https://img.shields.io/badge/My%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white" src="https://img.shields.io/badge/My%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white"></a>
 </p>
 
-## 📘 My top open source projects
-
+## 📕 My top open source projects [[toc](#table-of-content)].
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/a2n-s/dotfiles">       <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dotfiles&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"        alt="github-readme-streak-stats"></a>
@@ -74,8 +84,7 @@
   <a href="https://github.com/a2n-s?tab=repositories&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## 📕 Top projects I've contributed to
-
+## 📕 Top projects I've contributed to [[toc](#table-of-content)].
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/a2n-s/dmscripts"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmscripts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
@@ -86,7 +95,7 @@
   <a href="https://github.com/a2n-s?tab=repositories&type=fork&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork" title="All Forks" src="https://custom-icon-badges.herokuapp.com/badge/-All%21Repos-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
-## 📕Classes I took part in.
+## 📕 Classes I took part in [[toc](#table-of-content)].
 <p align="left">
   <a href="https://github.com/a2n-s/deep-learning">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=deep-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-react-pages"></a>
   <a href="https://github.com/a2n-s/stochastic">              <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=stochastic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"               alt="github-react-pages"></a>
@@ -95,14 +104,14 @@
   <a href="https://github.com/a2n-s/evolution">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=evolution&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-react-pages"></a>
 </p>
 
-## 📕 Machine learning projects.
+## 📕 Machine learning projects [[toc](#table-of-content)].
 <p align="left">
   <a href="https://github.com/a2n-s/flatland-project">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=flatland-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-react-pages"></a>
   <a href="https://github.com/a2n-s/DiCyR">                   <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=DiCyR&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                    alt="github-react-pages"></a>
   <a href="https://github.com/a2n-s/EA-elective-NEAT">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=EA-elective-NEAT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-react-pages"></a>
 </p>
 
-## 📕 Other interesting projects.
+## 📕 Other interesting projects [[toc](#table-of-content)].
 <p align="left">
   <!-- <a href="https://github.com/a2n-s/tatami">                  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=tatami&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                   alt="github-react-pages"></a> -->
   <a href="https://github.com/a2n-s/animal-crossing-db-study"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=animal-crossing-db-study&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-react-pages"></a>
@@ -113,8 +122,7 @@
   <a href="https://github.com/a2n-s/project-euler">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=project-euler&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-react-pages"></a>
 </p>
 
-## 🔥 Streak stats
-
+## 🔥 Streak stats [[toc](#table-of-content)].
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -124,11 +132,8 @@
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming languages
-
+##  My favorite tools [[toc](#table-of-content)].
+### 👨‍💻 Programming languages.
 <p>
   <a href="https://github.com/search?q=user%3Aa2n-s+language%3Aassembly">  <img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aa2n-s+language%3Abash">      <img alt="Bash"          src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -149,8 +154,7 @@
   <!-- <a href="https://github.com/search?q=user%3Aa2n-s+language%3Aracket">    <img alt="Racket"        src="https://custom-icon-badges.herokuapp.com/badge/Racket-025E8C.svg?logo=database&logoColor=white"></a> -->
 </p>
 
-### 🧰 Frameworks and libraries
-
+### 🧰 Frameworks and libraries.
 <p>
   <a href="#"><img alt="Arduino"      src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
   <a href="#"><img alt="NumPy"        src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
@@ -163,8 +167,7 @@
   <!-- <a href="#"><img alt="Unix shell"   src="https://img.shields.io/badge/Unix%20Shell-FF6F00.svg?logo=TensorFlow&logoColor=white"></a> -->
 </p>
 
-### 🗄️ Databases and cloud hosting
-
+### 🗄️ Databases and cloud hosting.
 <p>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
   <a href="#"><img alt="MySQL"        src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
@@ -174,8 +177,7 @@
   <!-- <a href="#"><img alt="Redis"        src="https://custom-icon-badges.herokuapp.com/badge/Redis-025E8C.svg?logo=database&logoColor=white"></a> -->
 </p>
 
-### 💻 Software and tools
-
+### 💻 Software and tools.
 <p>
   <a href="#"><img alt="Adobe"             src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
   <a href="#"><img alt="Android"           src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
@@ -211,8 +213,7 @@
 <!--[![Edit and RUN your code from GitHub online in seconds](https://freshidea.com/jonah/app/youtube-card/?id=0YLTILjOxIE)](https://www.youtube.com/watch?v=0YLTILjOxIE "Edit and RUN your code from GitHub online in seconds")-->
 <!--[![Keeping your dependencies updated automatically with Dependabot](https://freshidea.com/jonah/app/youtube-card/?id=22XrqdIe8oQ)](https://www.youtube.com/watch?v=22XrqdIe8oQ "Keeping your dependencies updated automatically with Dependabot")<!-1- YOUTUBE:END -1->-->
 
-## 📊 Github stats
-
+## 📊 Github stats [[toc](#table-of-content)].
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
