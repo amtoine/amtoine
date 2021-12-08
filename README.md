@@ -58,14 +58,21 @@
 </p>
 
 # Table of Content.
-- [My resume.](#-my-resume-toc)
+About myself:
+- [My resume.](#-my-resume-toc)  
+
+Highlighted repos:
 - [My top open source projects.](#-my-top-open-source-projects-toc)
 - [Top projects i've contributed to.](#-top-projects-ive-contributed-to-toc)
 - [Classes i took part in.](#-classes-i-took-part-in-toc)
 - [Machine learning projects.](#-machine-learning-projects-toc)
 - [Other interesting projects.](#-other-interesting-projects-toc)
-- [Streak stats.](#-streak-stats-toc)
+
+Some tools I use:
 - [My favorite tools.](#my-favorite-tools-toc)
+
+My stats:
+- [Streak stats.](#-streak-stats-toc)
 - [Github stats.](#-github-stats-toc)
 
 ## 📘 My Resume [[toc.](#table-of-content)].
