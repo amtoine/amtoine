@@ -106,7 +106,6 @@
 
 ## 📕 Machine learning projects [[toc](#table-of-content)].
 <p align="left">
-  <a href="https://github.com/a2n-s/flatland-project">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=flatland-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-react-pages"></a>
   <a href="https://github.com/a2n-s/DiCyR">                   <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=DiCyR&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                    alt="github-react-pages"></a>
   <a href="https://github.com/a2n-s/EA-elective-NEAT">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=EA-elective-NEAT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-react-pages"></a>
 </p>
