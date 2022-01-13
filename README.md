@@ -94,12 +94,13 @@ My stats:
 ## 📕 Top projects I've contributed to [[toc](#table-of-content)].
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/a2n-s/dmscripts"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmscripts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/a2n-s/dmenu">    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmenu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"     alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/dmscripts">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmscripts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/dmenu">            <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmenu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"             alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/ma_playground_env"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=ma_playground_env&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/a2n-s?tab=repositories&type=fork&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork" title="All Forks" src="https://custom-icon-badges.herokuapp.com/badge/-All%21Repos-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="https://github.com/a2n-s?tab=repositories&type=fork&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork" title="All Forks" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
 ## 📕 Classes I took part in [[toc](#table-of-content)].
@@ -107,14 +108,16 @@ My stats:
   <a href="https://github.com/a2n-s/deep-learning">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=deep-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
   <a href="https://github.com/a2n-s/stochastic">              <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=stochastic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"               alt="github-readme-stats"></a>
   <a href="https://github.com/a2n-s/machine-learning">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=machine-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/reinforcement-learning">  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=reinforcement-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-readme-stats"></a>
   <!-- <a href="https://github.com/a2n-s/pyseminar">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=pyseminar&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-readme-stats"></a> -->
   <a href="https://github.com/a2n-s/evolution">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=evolution&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-readme-stats"></a>
 </p>
 
 ## 📕 Machine learning projects [[toc](#table-of-content)].
 <p align="left">
-  <a href="https://github.com/a2n-s/DiCyR">                   <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=DiCyR&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                    alt="github-readme-stats"></a>
-  <a href="https://github.com/a2n-s/EA-elective-NEAT">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=EA-elective-NEAT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/DiCyR">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=DiCyR&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/EA-elective-NEAT"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=EA-elective-NEAT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/imgDesc">         <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=imgDesc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"          alt="github-readme-stats"></a>
 </p>
 
 ## 📕 Other interesting projects [[toc](#table-of-content)].
@@ -140,6 +143,7 @@ My stats:
   <a href="https://github.com/search?q=user%3Aa2n-s+language%3Ahtml">      <img alt="HTML"          src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aa2n-s+language%3Ajava">      <img alt="Java"          src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aa2n-s+language%3Ajavascript"><img alt="JavaScript"    src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%3Aa2n-s+language%3Alua">       <img alt="Lua"           src="https://img.shields.io/badge/Lua-ffffff.svg?logo=lua&logoColor=blue"></a>
   <a href="https://github.com/search?q=user%3Aa2n-s+language%3Atex">       <img alt="LaTeX"         src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aa2n-s+language%3Amarkdown">  <img alt="Markdown"      src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Aa2n-s+language%3Apython">    <img alt="Python"        src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
