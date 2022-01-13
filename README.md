@@ -100,7 +100,7 @@ My stats:
 </p>
 
 <p align="left">
-  <a href="https://github.com/a2n-s?tab=repositories&type=fork&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork" title="All Forks" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="https://github.com/a2n-s?tab=repositories&type=fork&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork" title="All Forks" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-29bb62?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
 ## 📕 Classes I took part in [[toc](#table-of-content)].
