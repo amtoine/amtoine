@@ -57,15 +57,21 @@
     <img alt="followers"   title="Follow me on Github"   src="https://custom-icon-badges.herokuapp.com/github/followers/a2n-s?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+<!-- <p align="center"> -->
+<!--   <a href="https://github.com/a2n-s?tab=repositories&type=fork&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork" title="All Forks" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a> -->
+<!--   <a href="https://github.com/a2n-s?tab=repositories&q=dmenu+rl&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork" title="All Forks" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a> -->
+<!-- </p> -->
+
 # Table of Content.
 About myself:
 - [My resume.](#-my-resume-toc)  
 
 Highlighted repos:
-- [My top open source projects.](#-my-top-open-source-projects-toc)
+- [My ArchLinux config.](#-my-archlinux-config-toc)
 - [Top projects i've contributed to.](#-top-projects-ive-contributed-to-toc)
 - [Classes i took part in.](#-classes-i-took-part-in-toc)
 - [Machine learning projects.](#-machine-learning-projects-toc)
+- [Game development.](#-game-development-toc)
 - [Other interesting projects.](#-other-interesting-projects-toc)
 
 Some tools I use:
@@ -80,11 +86,13 @@ My stats:
   <a href="https://github.com/a2n-s/a2n-s.github.io/blob/main/content/res/resume.pdf" alt="https://github.com/a2n-s/a2n-s/blob/main/resume.pdfhttps://badges.pufler.dev"><img alt="https://img.shields.io/badge/My%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white" src="https://img.shields.io/badge/My%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white"></a>
 </p>
 
-## 📕 My top open source projects [[toc](#table-of-content)].
+## 📕 My ArchLinux config [[toc](#table-of-content)].
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/a2n-s/dotfiles">       <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dotfiles&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"        alt="github-readme-streak-stats"></a>
   <a href="https://github.com/a2n-s/a2n-s.github.io"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=a2n-s.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/a2n-s/surf">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=surf&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/nvim">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=nvim&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
 </p>
 
 <p align="left">
@@ -94,6 +102,7 @@ My stats:
 ## 📕 Top projects I've contributed to [[toc](#table-of-content)].
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
+  <a href="https://github.com/a2n-s/surf">             <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=surf&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"              alt="github-readme-stats"></a>
   <a href="https://github.com/a2n-s/dmscripts">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmscripts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-readme-stats"></a>
   <a href="https://github.com/a2n-s/dmenu">            <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dmenu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"             alt="github-readme-stats"></a>
   <a href="https://github.com/a2n-s/ma_playground_env"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=ma_playground_env&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
@@ -101,35 +110,46 @@ My stats:
 
 <p align="left">
   <a href="https://github.com/a2n-s?tab=repositories&type=fork&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork" title="All Forks" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-29bb62?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="https://github.com/a2n-s?tab=repositories&type=source&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-Sources-FF6229?style=for-the-badge&logoColor=white&logo=fork" title="Sources" src="https://custom-icon-badges.herokuapp.com/badge/-Sources-FF6229?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
 ## 📕 Classes I took part in [[toc](#table-of-content)].
 <p align="left">
-  <a href="https://github.com/a2n-s/deep-learning">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=deep-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
-  <a href="https://github.com/a2n-s/stochastic">              <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=stochastic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"               alt="github-readme-stats"></a>
-  <a href="https://github.com/a2n-s/machine-learning">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=machine-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-readme-stats"></a>
   <a href="https://github.com/a2n-s/reinforcement-learning">  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=reinforcement-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-readme-stats"></a>
-  <!-- <a href="https://github.com/a2n-s/pyseminar">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=pyseminar&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-readme-stats"></a> -->
+  <a href="https://github.com/a2n-s/deep-learning">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=deep-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/machine-learning">        <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=machine-learning&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"         alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/stochastic">              <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=stochastic&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"               alt="github-readme-stats"></a>
   <a href="https://github.com/a2n-s/evolution">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=evolution&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-readme-stats"></a>
+  <!-- <a href="https://github.com/a2n-s/pyseminar">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=pyseminar&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-readme-stats"></a> -->
 </p>
 
 ## 📕 Machine learning projects [[toc](#table-of-content)].
 <p align="left">
+  <a href="https://github.com/a2n-s/ma_playground_env"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=ma_playground_env&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/a2n-s/DiCyR">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=DiCyR&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
   <a href="https://github.com/a2n-s/EA-elective-NEAT"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=EA-elective-NEAT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/a2n-s/imgDesc">         <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=imgDesc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"          alt="github-readme-stats"></a>
   <a href="https://github.com/a2n-s/dqn">             <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dqn&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"          alt="github-readme-stats"></a>
 </p>
 
+## 📕 Game development [[toc](#table-of-content)].
+<p align="left">                               
+  <a href="https://github.com/iScsc/wiresmash">     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=iScsc&repo=wiresmash&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"      alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/fgk">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=fgk&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
+  <a href="https://github.com/iScsc/NeoSnake">      <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=iScsc&repo=NeoSnake&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"       alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/tetris-couleur"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=tetris-couleur&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/amazons">       <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=amazons&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"        alt="github-readme-stats"></a>
+</p>
+
 ## 📕 Other interesting projects [[toc](#table-of-content)].
 <p align="left">
-  <!-- <a href="https://github.com/a2n-s/tatami">                  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=tatami&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                   alt="github-readme-stats"></a> -->
   <a href="https://github.com/a2n-s/animal-crossing-db-study"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=animal-crossing-db-study&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <!-- <a href="https://github.com/a2n-s/graphs">                  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=graphs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                   alt="github-readme-stats"></a> -->
   <a href="https://github.com/a2n-s/CTF.2021">                <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=CTF.2021&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                 alt="github-readme-stats"></a>
-  <!-- <a href="https://github.com/a2n-s/soft-body">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=soft-body&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-readme-stats"></a> -->
   <a href="https://github.com/a2n-s/SSS">                     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=SSS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                      alt="github-readme-stats"></a>
   <a href="https://github.com/a2n-s/project-euler">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=project-euler&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
+  <!-- <a href="https://github.com/a2n-s/tatami">                  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=tatami&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                   alt="github-readme-stats"></a> -->
+  <!-- <a href="https://github.com/a2n-s/graphs">                  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=graphs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                   alt="github-readme-stats"></a> -->
+  <!-- <a href="https://github.com/a2n-s/soft-body">               <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=soft-body&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"                alt="github-readme-stats"></a> -->
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
