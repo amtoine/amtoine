@@ -9,6 +9,10 @@
 <!-- from https://github.com/techytushar/random-memer -->
 <!-- from https://github.com/simple-icons/simple-icons#cdn-usage -->
 
+
+<!-- =================================== -->
+<!-- HEADER -->
+<!-- =================================== -->
 <h3 align="center">
   Welcome to Antoine Stevan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -55,9 +59,11 @@
 <!--   <a href="https://github.com/a2n-s?tab=repositories&q=dmenu+rl&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork" title="All Forks" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a> -->
 <!-- </p> -->
 
+<!-- =================================== -->
+<!-- TABLE OF CONTENT -->
+<!-- =================================== -->
 # Table of Content.
-About myself:
-- [My resume.](#-my-resume-toc)  
+[About Me.](#-about-me-toc)
 
 Highlighted repos:
 - [My ArchLinux config.](#-my-archlinux-config-toc)
@@ -67,14 +73,16 @@ Highlighted repos:
 - [Game development.](#-game-development-toc)
 - [Other interesting projects.](#-other-interesting-projects-toc)
 
-Some tools I use:
-- [My favorite tools.](#my-favorite-tools-toc)
+[My favorite tools.](#my-favorite-tools-toc)
 
 My stats:
 - [Streak stats.](#-streak-stats-toc)
 - [Github stats.](#-github-stats-toc)
 
-## 📘 My Resume [[toc.](#table-of-content)].
+<!-- =================================== -->
+<!-- THE BODY OF THE README -->
+<!-- =================================== -->
+## 📘 About Me [[toc.](#table-of-content)].
 <p align="center">
   <a href="https://github.com/a2n-s/a2n-s.github.io/blob/main/content/res/resume.pdf" alt="https://github.com/a2n-s/a2n-s/blob/main/resume.pdfhttps://badges.pufler.dev"><img alt="https://img.shields.io/badge/My%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white" src="https://img.shields.io/badge/My%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white"></a>
 </p>
