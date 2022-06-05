@@ -89,7 +89,6 @@ My stats:
 <!-- THE BODY OF THE README -->
 <!-- =================================== -->
 ## 📘 About Me [[toc.](#table-of-content)].
-blah
 <p align="center">
   <a href="https://github.com/a2n-s/a2n-s.github.io/blob/main/content/res/resume.pdf" alt="https://github.com/a2n-s/a2n-s/blob/main/resume.pdfhttps://badges.pufler.dev"><img alt="https://img.shields.io/badge/My%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white" src="https://img.shields.io/badge/My%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white"></a>
 </p>
@@ -124,10 +123,10 @@ blah
 ## 📕 Machine learning projects [[toc](#table-of-content)].
 <p align="left">
   <a href="https://github.com/a2n-s/ma_playground_env"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=ma_playground_env&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/a2n-s/DiCyR">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=DiCyR&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
-  <a href="https://github.com/a2n-s/EA-elective-NEAT"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=EA-elective-NEAT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/a2n-s/imgDesc">         <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=imgDesc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"          alt="github-readme-stats"></a>
-  <a href="https://github.com/a2n-s/dqn">             <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dqn&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"          alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/DiCyR">            <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=DiCyR&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/EA-elective-NEAT"> <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=EA-elective-NEAT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/imgDesc">          <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=imgDesc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"          alt="github-readme-stats"></a>
+  <a href="https://github.com/a2n-s/dqn">              <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=a2n-s&repo=dqn&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"          alt="github-readme-stats"></a>
 </p>
 
 ## 📕 Game development [[toc](#table-of-content)].
@@ -176,10 +175,11 @@ blah
   <a href="#"><img alt="NumPy"        src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas"       src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="TensorFlow"   src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-  <a href="#"><img alt="PyTorch"      src="https://img.shields.io/badge/PyTorch-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-  <a href="#"><img alt="SciPy"        src="https://img.shields.io/badge/SciPy-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-  <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20learn-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-  <a href="#"><img alt="Unix shell"   src="https://img.shields.io/badge/Unix%20Shell-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+  <a href="#"><img alt="PyTorch"      src="https://img.shields.io/badge/PyTorch-150458.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="SciPy"        src="https://img.shields.io/badge/SciPy-150458.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20learn-150458.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Unix shell"   src="https://img.shields.io/badge/Unix%20Shell-150458.svg?logo=shell&logoColor=white"></a>
+  <a href="#"><img alt="jax"          src="https://img.shields.io/badge/JAX-013243.svg?logo=python&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting.
@@ -202,13 +202,13 @@ blah
   <a href="#"><img alt="Google Sheets"     src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
   <a href="#"><img alt="Jupyter"           src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow"    src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  <a href="#"><img alt="ssh"               src="https://img.shields.io/badge/ssh-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Cluster Computing" src="https://img.shields.io/badge/Cluster%20Computing-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="excel"             src="https://img.shields.io/badge/excel-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="blender"           src="https://img.shields.io/badge/blender-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Gimp"              src="https://img.shields.io/badge/Gimp-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="RISE"              src="https://img.shields.io/badge/RISE-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Jupyter Lab"       src="https://custom-icon-badges.herokuapp.com/badge/Jupyter%20Lab-025E8C.svg?logo=Jupyter%20Lab&logoColor=white"></a>
+  <a href="#"><img alt="ssh"               src="https://img.shields.io/badge/ssh-150458.svg?logo=shell&logoColor=white"></a>
+  <a href="#"><img alt="Cluster Computing" src="https://img.shields.io/badge/Cluster%20Computing-150458.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="excel"             src="https://img.shields.io/badge/excel-150458.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="blender"           src="https://img.shields.io/badge/blender-150458.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Gimp"              src="https://img.shields.io/badge/Gimp-150458.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="RISE"              src="https://img.shields.io/badge/RISE-150458.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter Lab"       src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter%20Lab&logoColor=white"></a>
   <a href="#"><img alt="Google Colab"      src="https://custom-icon-badges.herokuapp.com/badge/Google%20Colab-025E8C.svg?logo=google&logoColor=white"></a>
 </p>
 
