@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/a2n-s?tab=repositories&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <a href="https://github.com/a2n-s?tab=repositories&type=source&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-Sources-FF6229?style=for-the-badge&logoColor=white&logo=fork" title="Sources" src="https://custom-icon-badges.herokuapp.com/badge/-Sources-FF6229?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/a2n-s?tab=repositories&type=source&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-Sources-FF6229?style=for-the-badge&logoColor=white&logo=repo" title="Sources" src="https://custom-icon-badges.herokuapp.com/badge/-Sources-FF6229?style=for-the-badge&logoColor=white&logo=repo"/></a>
   <a href="https://github.com/a2n-s?tab=repositories&type=fork&sort=stargazers"><img alt="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork" title="All Forks" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-29bb62?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
