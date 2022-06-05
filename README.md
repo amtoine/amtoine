@@ -1,9 +1,7 @@
-<!--        ____                       __        ____ -->
-<!--   __ _|___ \ _ __        ___     / /   __ _|___ \ _ __        ___ -->
-<!--  / _` | __) | '_ \ _____/ __|   / /   / _` | __) | '_ \ _____/ __| -->
-<!-- | (_| |/ __/| | | |_____\__ \  / /   | (_| |/ __/| | | |_____\__ \ -->
-<!--  \__,_|_____|_| |_|     |___/ /_/     \__,_|_____|_| |_|     |___/ -->
-
+<!--       ___                __       ___ -->
+<!--  __ _|_  )_ _ ___ ___   / /  __ _|_  )_ _ ___ ___ -->
+<!-- / _` |/ /| ' \___(_-<  / /  / _` |/ /| ' \___(_-< -->
+<!-- \__,_/___|_||_|  /__/ /_/   \__,_/___|_||_|  /__/ -->
 <!-- greatly inspired from https://github.com/DenverCoder1/DenverCoder1 !! -->
 
 <!-- from https://github.com/athul/waka-readme -->
@@ -15,11 +13,6 @@
   Welcome to Antoine Stevan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=WORK%20IN%20PROGRESS;Full%20readme%20available%20soon . . .&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
 
 <!-- Social icons section -->
 <p align="center">
