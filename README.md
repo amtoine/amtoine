@@ -38,7 +38,8 @@
   About this repo
 </h3>
 <p align="center">
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/visits/amtoine/amtoine?style=for-the-badge&color=violet"  src="https://badges.pufler.dev/visits/amtoine/amtoine?style=for-the-badge&color=violet">
+  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://komarev.com/ghpvc/?username=amtoine&style=for-the-badge&color=blueviolet"  src="https://komarev.com/ghpvc/?username=amtoine&style=for-the-badge&color=blueviolet">
+
 </p>
 
 <!-- Social badges section -->
@@ -49,8 +50,6 @@
   About my github
 </h3>
 <p align="center">
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/years/amtoine?style=for-the-badge&color=yellow"         src="https://badges.pufler.dev/years/amtoine?style=for-the-badge&color=yellow">
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev"><img alt="https://badges.pufler.dev/repos/amtoine?style=for-the-badge&color=green"          src="https://badges.pufler.dev/repos/amtoine?style=for-the-badge&color=green">
   <a href="https://github.com/amtoine?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/amtoine"/></a>
   <a href="https://github.com/amtoine?tab=followers">
