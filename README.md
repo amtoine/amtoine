@@ -67,65 +67,6 @@
 <p align="center">
   <a href="https://github.com/amtoine?tab=repositories&q=config&type=&language=&sort="><img title="My Config" src="https://custom-icon-badges.herokuapp.com/badge/-My%20Config-red?style=for-the-badge&logoColor=white&logo=fork"/></a>
   <a href="https://github.com/amtoine?tab=repositories&q=suckless&type=&language=&sort="><img title="My Suckless Forks" src="https://custom-icon-badges.herokuapp.com/badge/-My%20Suckless%20Forks-orange?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  <a href="https://github.com/stars/amtoine/lists/classes"><img title="The Classes I followed" src="https://custom-icon-badges.herokuapp.com/badge/-The%20Classes%20I%20Followed-yellow?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  <a href="https://github.com/amtoine?tab=repositories&q=isae-supaero&type=&language=&sort="><img title="ISAE Supaero Projects" src="https://custom-icon-badges.herokuapp.com/badge/-ISAE%20Supaero%20Projects-green?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  <a href="https://github.com/amtoine?tab=repositories&q=research&type=&language=&sort="><img title="My Research Projects" src="https://custom-icon-badges.herokuapp.com/badge/-My%20Research%20Projects-blue?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
-<!-- =================================== -->
-<!-- THE BODY OF THE README -->
-<!-- =================================== -->
-## 📘 About Me 
-**Research engineer student in the fields of Machine Learning (ML) and Reinforcement learning (RL).**
-
-I like
-- to **follow the most recent advancements in ML and RL**
-- **exploring** the possibilities of **ArchLinux** through my [configuration](https://github.com/amtoine?tab=repositories&q=config&type=&language=&sort=)
-- **coding** stuff and hanging around in my [club at ISAE-Supaero](https://github.com/iScsc) 
-- *Free and Open Source Software* (FOSS) and **contributing** to FOSS projects
-<p align="left">
-  <a href="https://github.com/amtoine/amtoine.github.io/blob/main/content/res/resume.pdf" alt="https://github.com/amtoine/amtoine/blob/main/resume.pdfhttps://badges.pufler.dev"><img alt="https://img.shields.io/badge/My%20Resume%20here-FF0000.svg?logo=adobe&logoColor=white" src="https://img.shields.io/badge/My%20Resume%20here-red.svg?logo=adobe&logoColor=white"></a>
-</p>
-
-## 📕 Highlight on some repos
-#### 📕 My ArchLinux config 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/amtoine/dotfiles">  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amtoine&repo=dotfiles&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"   alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/amtoine/wallpapers"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amtoine&repo=wallpapers&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-</p>
-
-#### 📕 My Suckless Software
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/amtoine/dmenu"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amtoine&repo=dmenu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/amtoine/st">  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amtoine&repo=st&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"   alt="github-readme-streak-stats"></a>
-</p>
-
-#### 📕 Top projects I've contributed to 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/qtile/qtile"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=qtile&repo=qtile&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"              alt="github-readme-stats"></a>
-  <a href="https://github.com/elParaguayo/qtile-extras"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=elParaguayo&repo=qtile-extras&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"              alt="github-readme-stats"></a>
-  <a href="https://github.com/arcolinux/archlinux-logout"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=arcolinux&repo=archlinux-logout&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"              alt="github-readme-stats"></a>
-  <a href="https://github.com/b3nj5m1n/xdg-ninja"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=b3nj5m1n&repo=xdg-ninja&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"              alt="github-readme-stats"></a>
-</p>
-
-#### 📕 Machine learning projects 
-<p align="left">
-  <a href="https://github.com/amtoine/ma_playground_env"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amtoine&repo=ma_playground_env&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/amtoine/dqn">              <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amtoine&repo=dqn&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"          alt="github-readme-stats"></a>
-</p>
-
-#### 📕 Game development 
-<p align="left">                               
-  <a href="https://github.com/iScsc/wiresmash">     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=iScsc&repo=wiresmash&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"      alt="github-readme-stats"></a>
-  <a href="https://github.com/iScsc/NeoSnake">      <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=iScsc&repo=NeoSnake&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"       alt="github-readme-stats"></a>
-</p>
-
-#### 📕 Other interesting projects 
-<p align="left">
-  <a href="https://github.com/amtoine/animal-crossing-db-study"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amtoine&repo=animal-crossing-db-study&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/amtoine/project-euler">           <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=amtoine&repo=project-euler&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"            alt="github-readme-stats"></a>
-</p>
-
+![Metrics](https://metrics.lecoq.io/amtoine?template=classic&repositories.affiliations=owner%2C%20collaborator%2C%20organization_member&base.indepth=false&base.hireable=false&config.timezone=Europe%2FCopenhagen&config.display=large)
