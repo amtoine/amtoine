@@ -117,9 +117,9 @@
 </p>
 
 <h3 align="center">
+  About me
 </h3>
 <p align="center">
-  About me
   <a href="https://github.com/amtoine/amtoine/blob/main/SKILLS.md">
     <img
       title="My skills"
