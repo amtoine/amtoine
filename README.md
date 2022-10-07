@@ -1,7 +1,3 @@
-<!--       ___                __       ___ -->
-<!--  __ _|_  )_ _ ___ ___   / /  __ _|_  )_ _ ___ ___ -->
-<!-- / _` |/ /| ' \___(_-<  / /  / _` |/ /| ' \___(_-< -->
-<!-- \__,_/___|_||_|  /__/ /_/   \__,_/___|_||_|  /__/ -->
 <!-- greatly inspired from https://github.com/DenverCoder1/DenverCoder1 !! -->
 
 <!-- from https://github.com/athul/waka-readme -->
