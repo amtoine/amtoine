@@ -117,6 +117,8 @@
 </p>
 
 <h3 align="center">
+</h3>
+<p align="center">
   About me
   <a href="https://github.com/amtoine/amtoine/blob/main/SKILLS.md">
     <img
@@ -130,7 +132,7 @@
       src="https://custom-icon-badges.herokuapp.com/badge/-My%20GitHub%20Stats-orange?style=for-the-badge&logoColor=white&logo=fork"
     ></img>
   </a>
-</h3>
+</p>
 
 ![Metrics](https://metrics.lecoq.io/amtoine?template=classic&repositories.affiliations=owner%2C%20collaborator%2C%20organization_member&base.indepth=false&base.hireable=false&config.timezone=Europe%2FCopenhagen&config.display=large)
 
