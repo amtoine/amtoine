@@ -71,23 +71,23 @@
 <p align="center">
   <a href="https://github.com/amtoine?tab=repositories&sort=stargazers">
     <img 
-      alt="https://custom-icon-badges.herokuapp.com/badge/-My%20Repos-red?style=for-the-badge&logoColor=white&logo=repo"
       title="All my repositories"
-      src="https://custom-icon-badges.herokuapp.com/badge/-My%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"
+      alt="https://custom-icon-badges.herokuapp.com/badge/-My%20Repos-green?style=for-the-badge&logoColor=white&logo=repo"
+      src="https://custom-icon-badges.herokuapp.com/badge/-My%20Repos-green?style=for-the-badge&logoColor=white&logo=repo"
     ></img>
   </a>
   <a href="https://github.com/amtoine?tab=repositories&type=source&sort=stargazers">
     <img
-      alt="https://custom-icon-badges.herokuapp.com/badge/-My%20Source%20Repos-purple?style=for-the-badge&logoColor=white&logo=repo"
       title="All my source repositories"
-      src="https://custom-icon-badges.herokuapp.com/badge/-My%20Source%20Repos-FF6229?style=for-the-badge&logoColor=white&logo=repo"
+      alt="https://custom-icon-badges.herokuapp.com/badge/-My%20Source%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
+      src="https://custom-icon-badges.herokuapp.com/badge/-My%20Source%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
     ></img>
   </a>
   <a href="https://github.com/amtoine?tab=repositories&type=fork&sort=stargazers">
     <img
-      alt="https://custom-icon-badges.herokuapp.com/badge/-My%20Forks-magenta?style=for-the-badge&logoColor=white&logo=fork"
       title="All my forks"
-      src="https://custom-icon-badges.herokuapp.com/badge/-My%20Forks-29bb62?style=for-the-badge&logoColor=white&logo=fork"
+      alt="https://custom-icon-badges.herokuapp.com/badge/-My%20Forks-cyan?style=for-the-badge&logoColor=white&logo=fork"
+      src="https://custom-icon-badges.herokuapp.com/badge/-My%20Forks-cyan?style=for-the-badge&logoColor=white&logo=fork"
     ></img>
   </a>
 </p>
