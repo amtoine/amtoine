@@ -17,7 +17,7 @@
 
 <!-- Social icons section -->
 <h3 align="center">
-  Social media
+  Social
 </h3>
 <p align="center">
   <a href="https://amtoine.github.io/" alt="https://amtoine.github.io/">
