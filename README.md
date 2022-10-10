@@ -20,15 +20,6 @@
   Social
 </h3>
 <p align="center">
-  <a href="https://amtoine.github.io/" alt="https://amtoine.github.io/">
-    <img
-      width="32px"
-      alt="https://i.imgur.com/0uVwkoZ.png"
-      title="Personal website"
-      src="https://i.imgur.com/0uVwkoZ.png"
-    ></img>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/antoine-stevan/" alt="https://www.linkedin.com/in/antoine-stevan/sureli">
     <img
       width="32px"
@@ -46,6 +37,9 @@
       src="https://i.imgur.com/OViZO8J.png"
     ></img>
   </a>
+  <br>
+  my <b>personal website</b>:
+  <a href="https://amtoine.github.io">amtoine.github.io</a>
 </p>
 
 <!-- Social badges section -->
