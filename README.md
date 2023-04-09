@@ -32,6 +32,64 @@
   <a href="https://keys.openpgp.org/search?q=stevan.antoine@gmail.com">7C5EE50BA27B86B7F9D5A7BA37AAE9B486CFF1AB</a>
 </p>
 
+```json
+{
+    work: [
+        {
+            name: "oberonforall"
+            link: "https://github.com/oberonforall"
+            projects: [
+                {
+                    name: "compiler"
+                    description: "A cross-compiler for the Oberon programming language."
+                    status: "coming soon"
+                }
+            ]
+            status: "internship"
+            where: {country: France, city: Toulouse, employer: ISAE}
+            dates: {start: 2022-09-04, end: 2022-12-22}
+        }
+        {
+            name: "Dragoon"
+            status: "CDD"
+            where: {country: France, city: Toulouse, employer: DGA}
+        }
+    ]
+
+    open-source: {
+        goatfiles: {
+            description: "linux configuration files"
+            roles: [creator, owner, maintainer]
+            link: "https://github.com/goatfiles"
+            top-projects: {
+                dotfiles: "https://github.com/goatfiles/dotfiles"
+                kickstart.nvim: "https://github.com/goatfiles/kickstart.nvim"
+                nu_scripts: "https://github.com/goatfiles/nu_scripts"
+            }
+        }
+        personal: {
+            qmk: "https://github.com/amtoine/qmk_firmware"
+            nushell: [
+                https://github.com/amtoine/nu_plugin_len
+                https://github.com/amtoine/nu_ec_curve_parse
+            ]
+            gitox: "https://github.com/amtoine/gitox"
+            all: "https://github.com/amtoine?tab=repositories&sort=stargazers"
+        }
+        nushell: {
+            roles: [contributor, 'core-team(?)']
+            top-projects: [
+                https://github.com/nushell/nushell
+                https://github.com/nushell/nu_scripts
+                https://github.com/nushell/nushell.github.io
+                https://github.com/fdncred/nufmt
+            ]
+        }
+        all-my-forks: "https://github.com/amtoine?tab=repositories&q=&type=fork&language=&sort=stargazers"
+    }
+}
+```
+
 <a href="https://github.com/amtoine?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 ![Metrics](https://metrics.lecoq.io/amtoine?template=classic&repositories.affiliations=owner%2C%20collaborator%2C%20organization_member&base.indepth=false&base.hireable=false&config.timezone=Europe%2FCopenhagen&config.display=large)
