@@ -18,21 +18,11 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/antoine-stevan/" alt="https://www.linkedin.com/in/antoine-stevan/sureli">
-    <img
-      width="32px"
-      alt="linkedin.png"
-      title="LinkedIn"
-      src="linkedin.png"
-    ></img>
+    <img width="32px" alt="linkedin.png" title="LinkedIn" src="linkedin.png"></img>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/GMb9ESpa7J" alt="https://discord.gg/GMb9ESpa7J">
-    <img
-      width="32px"
-      alt="https://i.imgur.com/OViZO8J.png"
-      title="SCSg club"
-      src="https://i.imgur.com/OViZO8J.png"
-    ></img>
+    <img width="32px" alt="https://i.imgur.com/OViZO8J.png" title="SCSg club" src="https://i.imgur.com/OViZO8J.png"></img>
   </a>
   <br>
   my <b>personal website</b>:
