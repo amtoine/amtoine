@@ -8,8 +8,13 @@ def url-encode [] {
     path: /
     params: {
         lines: [
-            "this is a test"
-            "another one"
+            "5+ graduated student doing engineering and research"
+            "working in compilation, cryptography and distributed data storage"
+            "writing rust as a primary language, python as the backup and bash for POSIX requirements (many more)"
+            "love open source and contributing to the FOSS community"
+            "i use arch btw"
+            "i use nushell btw"
+            "i use (neo)vim btw"
         ],
         font: "Fira Code",
         center: "true",
