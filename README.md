@@ -77,12 +77,15 @@
             }
         }
         personal: {
-            qmk: "https://github.com/amtoine/qmk_firmware"
-            nushell: [
-                https://github.com/amtoine/nu_plugin_len
-                https://github.com/amtoine/nu_ec_curve_parse
-            ]
-            gitox: "https://github.com/amtoine/gitox"
+            roles: [well-that-s-me, keys-of-the-kingdom]
+            top-projects: {
+                qmk: "https://github.com/amtoine/qmk_firmware"
+                nushell: [
+                    https://github.com/amtoine/nu_plugin_len
+                    https://github.com/amtoine/nu_ec_curve_parse
+                ]
+                gitox: "https://github.com/amtoine/gitox"
+            }
             all: "https://github.com/amtoine?tab=repositories&sort=stargazers"
         }
         nushell: {
