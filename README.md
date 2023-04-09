@@ -32,70 +32,8 @@
   <a href="https://keys.openpgp.org/search?q=stevan.antoine@gmail.com">7C5EE50BA27B86B7F9D5A7BA37AAE9B486CFF1AB</a>
 </p>
 
-<!-- My Repos -->
-<h3 align="center">
-  My repos
-</h3>
-<p align="center">
-  <a href="https://github.com/amtoine?tab=repositories&type=source&sort=stargazers">
-    <img
-      title="All my source repositories"
-      alt="https://custom-icon-badges.herokuapp.com/badge/-My%20Source%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
-      src="https://custom-icon-badges.herokuapp.com/badge/-My%20Source%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
-    ></img>
-  </a>
-  <a href="https://github.com/amtoine?tab=repositories&type=fork&sort=stargazers">
-    <img
-      title="All my forks"
-      alt="https://custom-icon-badges.herokuapp.com/badge/-My%20Forks-cyan?style=for-the-badge&logoColor=white&logo=fork"
-      src="https://custom-icon-badges.herokuapp.com/badge/-My%20Forks-cyan?style=for-the-badge&logoColor=white&logo=fork"
-    ></img>
-  </a>
-</p>
 
-<h3 align="center">
-  Hall of fame
-</h3>
-<p align="center">
-  <a href="https://github.com/goatfiles">
-    <img
-      title="The GOAT.files"
-      src="https://custom-icon-badges.herokuapp.com/badge/-The%20GOAT.files-green?style=for-the-badge&logoColor=white&logo=fork"
-    ></img>
-  </a>
-  <a href="https://github.com/goatfiles-suckless">
-    <img
-      title="My Suckless Software"
-      src="https://custom-icon-badges.herokuapp.com/badge/-Suckless%20Software%20For%20GOATs-blue?style=for-the-badge&logoColor=white&logo=fork"
-    ></img>
-  </a>
-  <a href="https://github.com/oberonproject">
-    <img
-      title="The ISAE Oberon project"
-      src="https://custom-icon-badges.herokuapp.com/badge/-The%20ISAE%20Oberon%20Project-cyan?style=for-the-badge&logoColor=white&logo=fork"
-    ></img>
-  </a>
-</p>
 
-<h3 align="center">
-  About me
-</h3>
-<p align="center">
-  <a href="https://github.com/amtoine/amtoine/blob/main/SKILLS.md">
-    <img
-      title="My skills"
-      src="https://custom-icon-badges.herokuapp.com/badge/-My%20Skills-red?style=for-the-badge&logoColor=white&logo=fork"
-    ></img>
-  </a>
-  <a href="https://github.com/amtoine/amtoine/blob/main/STATS.md">
-    <img
-      title="My GitHub stats"
-      src="https://custom-icon-badges.herokuapp.com/badge/-My%20GitHub%20Stats-orange?style=for-the-badge&logoColor=white&logo=fork"
-    ></img>
-  </a>
-</p>
-
-[![nushell/nushell - GitHub](https://gh-card.dev/repos/nushell/nushell.svg?fullname=)](https://github.com/nushell/nushell)
 
 ![Metrics](https://metrics.lecoq.io/amtoine?template=classic&repositories.affiliations=owner%2C%20collaborator%2C%20organization_member&base.indepth=false&base.hireable=false&config.timezone=Europe%2FCopenhagen&config.display=large)
 
