@@ -39,7 +39,7 @@
 
 > **Note**  
 > this is actual [NUON](https://www.nushell.sh/book/loading_data.html#nuon) data, which would work in [`nushell`](https://github.com/nushell/nushell)
-```nuon
+```bash
 {
     work: [
         {
