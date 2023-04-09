@@ -12,6 +12,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <!-- generated from nushell with `nu message.nu | clip` -->
     <img src="https://readme-typing-svg.demolab.com/?lines=this%20is%20a%20test;another%20one&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
