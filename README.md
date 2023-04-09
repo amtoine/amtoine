@@ -5,8 +5,9 @@
 <!-- =================================== -->
 <p align="center">
   <a href="https://github.com/amtoine">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="amtoine" /></a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></img>
+    hello there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></img>
+  </a>
 </p>
 
 <p align="center">
