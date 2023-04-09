@@ -7,11 +7,12 @@ def url-encode [] {
     host: readme-typing-svg.demolab.com,
     path: /
     params: {
+        #   "................................................."
         lines: [
             "5+ graduated, engineering and research"
-            "compilation, cryptography + distributed data storage"
-            "writing (1) rust, (2) python and (POSIX) bash, ..."
-            "love open source and contributing to FOSS community"
+            "compilation, cryptography + distributed storage"
+            "writing (1) rust, (2) python + (POSIX) bash, ..."
+            "love open source + contributing to FOSS community"
             "i use arch btw"
             "i use nushell btw"
             "i use (neo)vim btw"
@@ -23,7 +24,7 @@ def url-encode [] {
         color: "f75c7e",
         vCenter: "true",
         pause: "1000",
-        size: "22"
+        size: "15"
     }
 }
 | update params.lines {|| get params.lines | url-encode}
