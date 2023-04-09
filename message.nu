@@ -8,10 +8,10 @@ def url-encode [] {
     path: /
     params: {
         lines: [
-            "5+ graduated student doing engineering and research"
-            "working in compilation, cryptography and distributed data storage"
-            "writing rust as a primary language, python as the backup and bash for POSIX requirements (many more)"
-            "love open source and contributing to the FOSS community"
+            "5+ graduated, engineering and research"
+            "compilation, cryptography + distributed data storage"
+            "writing (1) rust, (2) python and (POSIX) bash, ..."
+            "love open source and contributing to FOSS community"
             "i use arch btw"
             "i use nushell btw"
             "i use (neo)vim btw"

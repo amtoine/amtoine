@@ -13,7 +13,7 @@
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <!-- generated from nushell with `nu message.nu | clip` -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=5%2B%20graduated%20student%20doing%20engineering%20and%20research;working%20in%20compilation%2C%20cryptography%20and%20distributed%20data%20storage;writing%20rust%20as%20a%20primary%20language%2C%20python%20as%20the%20backup%20and%20bash%20for%20POSIX%20requirements%20%28many%20more%29;love%20open%20source%20and%20contributing%20to%20the%20FOSS%20community;i%20use%20arch%20btw;i%20use%20nushell%20btw;i%20use%20%28neo%29vim%20btw&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=5%2B%20graduated%2C%20engineering%20and%20research;compilation%2C%20cryptography%20%2B%20distributed%20data%20storage;writing%20%281%29%20rust%2C%20%282%29%20python%20and%20%28POSIX%29%20bash%2C%20...;love%20open%20source%20and%20contributing%20to%20FOSS%20community;i%20use%20arch%20btw;i%20use%20nushell%20btw;i%20use%20%28neo%29vim%20btw&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
