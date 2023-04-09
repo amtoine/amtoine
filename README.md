@@ -3,17 +3,17 @@
 <!-- =================================== -->
 <!-- HEADER -->
 <!-- =================================== -->
-<h1 align="center">
-  Welcome to amtoine's profile!
+<p align="center">
+  <a href="https://github.com/amtoine">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="amtoine" /></a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></img>
-  <br>
-  <a href="https://badges.pufler.dev" alt="https://badges.pufler.dev">
-    <img
-      alt="https://komarev.com/ghpvc/?username=amtoine&style=for-the-badge&color=blueviolet"
-      src="https://komarev.com/ghpvc/?username=amtoine&style=for-the-badge&color=blueviolet"
-    ></img>
-  </a>
-</h1>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=this%20is%20a%20test,another%20one&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <!-- Social icons section -->
 <h3 align="center">
