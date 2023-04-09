@@ -41,6 +41,7 @@
 > this is actual [NUON](https://www.nushell.sh/book/loading_data.html#nuon) data, which would work in [`nushell`](https://github.com/nushell/nushell)
 ```bash
 {
+    # my previous dev-related professional experience
     work: [
         {
             name: "oberonforall"
@@ -63,6 +64,7 @@
         }
     ]
 
+    # what i like to do during my free time, helping the FOSS community a bit
     open-source: {
         goatfiles: {
             description: "linux configuration files"
