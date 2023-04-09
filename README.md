@@ -34,8 +34,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/amtoine?tab=repositories&q=&type=source&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <a href="https://github.com/amtoine?tab=repositories&q=&type=fork&language=&sort=stargazers"><img alt="All Forks" title="All Forks" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="https://github.com/amtoine?tab=repositories&q=is%3Apublic&type=source&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/amtoine?tab=repositories&q=is%3Apublic&type=fork&language=&sort=stargazers"><img alt="All Forks" title="All Forks" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
 > **Note**  
