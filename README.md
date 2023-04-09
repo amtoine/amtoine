@@ -32,7 +32,7 @@
   <a href="https://keys.openpgp.org/search?q=stevan.antoine@gmail.com">7C5EE50BA27B86B7F9D5A7BA37AAE9B486CFF1AB</a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://github.com/amtoine?tab=repositories&q=&type=source&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   <a href="https://github.com/amtoine?tab=repositories&q=&type=fork&language=&sort=stargazers"><img alt="All Forks" title="All Forks" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
