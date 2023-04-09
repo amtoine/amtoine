@@ -12,7 +12,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <!-- generated from nushell with `nu message.nu | clip` -->
+    <!-- generated from nushell with `nu message.nu --embed --indent 4 | clip` -->
     <img src="https://readme-typing-svg.demolab.com/?lines=5%2B%20graduated%2C%20engineering%20and%20research;compilation%2C%20cryptography%20%2B%20distributed%20storage;writing%20%281%29%20rust%2C%20%282%29%20python%20%2B%20%28POSIX%29%20bash%2C%20...;love%20open%20source%20%2B%20contributing%20to%20FOSS%20community;i%20use%20arch%20btw;i%20use%20nushell%20btw;i%20use%20%28neo%29vim%20btw&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=15" /></a>
 </p>
 
