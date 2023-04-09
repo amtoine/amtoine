@@ -32,17 +32,7 @@
   <a href="https://keys.openpgp.org/search?q=stevan.antoine@gmail.com">7C5EE50BA27B86B7F9D5A7BA37AAE9B486CFF1AB</a>
 </p>
 
-<details open> 
-  <summary><h2>My repos</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/amtoine/nu_plugin_len"><img width="278" src="https://amtoine-nu_plugin_len.vercel.app/api/pin/?username=amtoine&repo=nu_plugin_len&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="amtoine/nu_plugin_len"></a>
-  </p>
-
-  <a href="https://github.com/amtoine?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
+<a href="https://github.com/amtoine?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 ![Metrics](https://metrics.lecoq.io/amtoine?template=classic&repositories.affiliations=owner%2C%20collaborator%2C%20organization_member&base.indepth=false&base.hireable=false&config.timezone=Europe%2FCopenhagen&config.display=large)
 
