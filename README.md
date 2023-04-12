@@ -39,6 +39,8 @@
   <a href="https://github.com/amtoine?tab=repositories&q=is%3Apublic&type=archived&language=&sort=stargazers"><img alt="All Archives" title="All Archives" src="https://custom-icon-badges.demolab.com/badge/-My%20Archives-1F222E?style=for-the-badge&logoColor=white&logo=archive"/></a>
 </p>
 
+-----
+
 > **Note**  
 > this is actual [NUON](https://www.nushell.sh/book/loading_data.html#nuon) data, which would work in [`nushell`](https://github.com/nushell/nushell)
 ```bash
