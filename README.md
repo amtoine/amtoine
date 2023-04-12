@@ -29,7 +29,7 @@
   my <b>personal website</b>:
   <a href="https://amtoine.github.io">amtoine.github.io</a>
   <br>
-  <b>my</b> public key on <code>openpgp</code>:
+  my <b>public key</b> on <code>openpgp</code>:
   <a href="https://keys.openpgp.org/search?q=stevan.antoine@gmail.com">7C5EE50BA27B86B7F9D5A7BA37AAE9B486CFF1AB</a>
 </p>
 
