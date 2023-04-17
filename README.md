@@ -19,7 +19,7 @@
 <!-- Social icons section -->
 <p align="center">
   contact <b>me</b>:
-  <a href="https://amtoine.github.io/contact/">https://amtoine.github.io/contact/</a>
+  <a href="https://amtoine.github.io/contact/">amtoine.github.io/contact</a>
   <br>
   my <b>personal website</b>:
   <a href="https://amtoine.github.io">amtoine.github.io</a>
