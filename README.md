@@ -35,6 +35,22 @@
 -----
 
 > **Note**  
+> these days, i'm mostly focused on [`nushell`] :innocent:
+
+a typical FOSS day unwraps as follows for me:
+- **help the community** a bit during my breaks
+- **chat with the *core team*** once home
+- do **some triage** on new and existing issues
+- **review *P*ull *R*equests**
+
+and if i have a bit more time (*which happens rarely* :scream:)
+- **implement ideas** i have
+- work on **personal projects**
+- write posts for my [personal website](https:/amtoine.github.io)
+
+-----
+
+> **Note**  
 > this is actual [NUON] data, which would work in [`nushell`](https://nushell.sh)
 ```bash
 {
@@ -114,3 +130,4 @@
 ![Metrics](https://metrics.lecoq.io/amtoine?template=classic&repositories.affiliations=owner%2C%20collaborator%2C%20organization_member&base.indepth=false&base.hireable=false&config.timezone=Europe%2FCopenhagen&config.display=large)
 
 [NUON]: https://www.nushell.sh/book/loading_data.html#nuon
+[`nushell`]: https://github.com/nushell
