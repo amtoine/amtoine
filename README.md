@@ -35,7 +35,7 @@
 -----
 
 > **Note**  
-> this is actual [NUON](https://www.nushell.sh/book/loading_data.html#nuon) data, which would work in [`nushell`](https://github.com/nushell/nushell)
+> this is actual [NUON] data, which would work in [`nushell`](https://nushell.sh)
 ```bash
 {
     # my previous dev-related professional experience
@@ -111,3 +111,4 @@
 
 ![Metrics](https://metrics.lecoq.io/amtoine?template=classic&repositories.affiliations=owner%2C%20collaborator%2C%20organization_member&base.indepth=false&base.hireable=false&config.timezone=Europe%2FCopenhagen&config.display=large)
 
+[NUON]: https://www.nushell.sh/book/loading_data.html#nuon
