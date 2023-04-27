@@ -12,12 +12,12 @@
 
 <!-- Social icons section -->
 <p align="center">
-  contact <b>me</b>:
-  <a href="https://amtoine.github.io/contact/">amtoine.github.io/contact</a>
-  <br>
-  my <b>personal website</b>:
-  <a href="https://amtoine.github.io">amtoine.github.io</a>
-  <br>
+  contact <b>me</b>:                                                          <!-- SITE::SKIP -->
+  <a href="https://amtoine.github.io/contact/">amtoine.github.io/contact</a>  <!-- SITE::SKIP -->
+  <br>                                                                        <!-- SITE::SKIP -->
+  my <b>personal website</b>:                                                 <!-- SITE::SKIP -->
+  <a href="https://amtoine.github.io">amtoine.github.io</a>                   <!-- SITE::SKIP -->
+  <br>                                                                        <!-- SITE::SKIP -->
   my <b>public key</b> on <code>openpgp</code>:
   <a href="https://keys.openpgp.org/search?q=stevan.antoine@gmail.com">7C5EE50BA27B86B7F9D5A7BA37AAE9B486CFF1AB</a>
 </p>
