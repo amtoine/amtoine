@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/amtoine/resume/releases/tag/graduate+0"><img alt="My Latest Resume" title="My Latest Resume" src="https://custom-icon-badges.demolab.com/badge/-My%20Latest%20Resume-1F222E?style=for-the-badge&logoColor=white&logo=note"/></a>
+  <a href="https://github.com/amtoine/resume/releases/tag/graduate+0"><img alt="My Latest Resume" title="My Latest Resume" src="https://custom-icon-badges.demolab.com/badge/-My%20Latest%20Resume-cccccc?style=for-the-badge&logoColor=black&logo=note"/></a>
 </p>
