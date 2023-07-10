@@ -16,3 +16,13 @@
 <p align="center">
   <a href="https://github.com/amtoine/resume/releases/tag/graduate+0"><img alt="My Latest Resume" title="My Latest Resume" src="https://custom-icon-badges.demolab.com/badge/-My%20Latest%20Resume-cccccc?style=for-the-badge&logoColor=black&logo=note"/></a>
 </p>
+
+---
+
+:star: member of the @nushell/core-team of [Nushell](https://github.com/nushell)
+
+:star: owner of the [iScsc](https://github.com/iScsc) organization, member of the club
+
+:star: owner of the [Oberon For All](https://github.com/oberonforall) organization, contributor in an internship
+
+:star: owner and main maintainer of the [GOATFILES](https://github.com/goatfiles)
