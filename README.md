@@ -3,12 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/amtoine?tab=repositories&q=is%3Apublic&type=source&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <a href="https://github.com/amtoine?tab=repositories&q=is%3Apublic&type=fork&language=&sort=stargazers"><img alt="All Forks" title="All Forks" src="https://custom-icon-badges.demolab.com/badge/-My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-</p>
-
-<p align="center">
+  <a href="https://github.com/amtoine?tab=repositories&q=is%3Apublic&type=source&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-90c01c?style=for-the-badge&logoColor=white&logo=repo"/></a>
   <a href="https://github.com/amtoine?tab=repositories&q=is%3Apublic+nushell&type=source&language=&sort=stargazers"><img alt="My Nushell projects" title="My Nushell projects" src="https://custom-icon-badges.demolab.com/badge/-My%20Nushell%20Projects-fc5aad?style=for-the-badge&logoColor=black&logo=shell"/></a>
+  <a href="https://github.com/amtoine?tab=repositories&q=is%3Apublic&type=fork&language=&sort=stargazers"><img alt="All Forks" title="All Forks" src="https://custom-icon-badges.demolab.com/badge/-My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
   <a href="https://github.com/amtoine?tab=repositories&q=is%3Apublic&type=archived&language=&sort=stargazers"><img alt="All Archives" title="All Archives" src="https://custom-icon-badges.demolab.com/badge/-My%20Archives-b98659?style=for-the-badge&logoColor=black&logo=archive"/></a>
 </p>
 
