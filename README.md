@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/amtoine?tab=repositories&q=is%3Apublic+config&type=source&language=&sort=stargazers"><img alt="My Configuration" title="My Configuration" src="https://custom-icon-badges.demolab.com/badge/-My%20Configuration-cccc00?style=for-the-badge&logoColor=black&logo=gear"/></a>
+  <a href="https://github.com/amtoine?tab=repositories&q=is%3Apublic+config&type=source&language=&sort=stargazers"><img alt="My Configuration" title="My Configuration" src="https://custom-icon-badges.demolab.com/badge/-My%20Configuration-ffd700?style=for-the-badge&logoColor=black&logo=gear"/></a>
   <a href="https://github.com/amtoine/resume/releases/latest"><img alt="My Latest Resume" title="My Latest Resume" src="https://custom-icon-badges.demolab.com/badge/-My%20Latest%20Resume-cccccc?style=for-the-badge&logoColor=black&logo=note"/></a>
 </p>
 
