@@ -24,8 +24,6 @@
 
 :star: owner of the [Oberon For All](https://github.com/oberonforall) organization, contributor in an internship
 
-:star: owner and main maintainer of the [GOATFILES](https://github.com/goatfiles)
-
 ---
 
 ### :pencil2: writing an [interpreter](https://interpreterbook.com/) and a [compiler](https://compilerbook.com/) for the [Monkey (:see_no_evil:) programming language](https://monkeylang.org/#what-is-monkey)
