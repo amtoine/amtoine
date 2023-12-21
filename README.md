@@ -26,6 +26,11 @@
 
 ---
 
+### My Advent Of Code adventure
+:point_right: [Advent Of Code](https://github.com/amtoine/advent-of-code)
+
+---
+
 ### :pencil2: writing an [interpreter](https://interpreterbook.com/) and a [compiler](https://compilerbook.com/) for the [Monkey (:see_no_evil:) programming language](https://monkeylang.org/#what-is-monkey)
 
 :construction: :crab: the [Rust interpreter](https://github.com/amtoine/monkey-interpreter-rs)
