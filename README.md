@@ -26,8 +26,8 @@
 
 ---
 
-### My Advent Of Code adventure
-:point_right: [Advent Of Code](https://github.com/amtoine/advent-of-code)
+### My [Advent Of Code](https://adventofcode.com/) adventure
+:point_right: [my repo](https://github.com/amtoine/advent-of-code)
 
 ---
 
