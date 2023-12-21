@@ -32,7 +32,7 @@
 ---
 
 ### :pencil2: writing an [interpreter](https://interpreterbook.com/) and a [compiler](https://compilerbook.com/) for the [Monkey (:see_no_evil:) programming language](https://monkeylang.org/#what-is-monkey)
-
-:construction: :crab: the [Rust interpreter](https://github.com/amtoine/monkey-interpreter-rs)
-
-:construction: :crab: the [Rust compiler](https://github.com/amtoine/monkey-compiler-rs)
+|             | rust                                                                    |
+| ----------- | ----------------------------------------------------------------------- |
+| interpreter | :construction: [here](https://github.com/amtoine/monkey-interpreter-rs) |
+| compiler    | :construction: [here](https://github.com/amtoine/monkey-compiler-rs)    |
