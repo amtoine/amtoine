@@ -1,4 +1,14 @@
 <h1 align="center">
+    This account is no longer active and does not plan to go back on GitHub for personal use...
+    <br>
+    Please visit https://codeberg.org/astevan instead ! :)
+</h1>
+
+---
+---
+---
+
+<h1 align="center">
     wanna know about me? :point_right: :point_right: click <a href="https://amtoine.github.io/about">[HERE]</a>
 </h1>
 
